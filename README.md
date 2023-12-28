@@ -1,11 +1,10 @@
+![logo](https://github.com/rjghongade/rjghongade/blob/main/RAJENDRA%20GHONGADE.png)
 <h1 align="center">Hi 👋, I'm RAJENDRA GHONGADE</h1>
 <h3 align="center">As a software virtuoso at RAM Antivirus, I sculpt the digital guardians of cyber realms, intricately weaving code to fortify the frontlines against the relentless tide of malware. My craft resides in the artistry of cybersecurity, where every line of code births a shield, and each algorithm dances to the rhythm of protecting users from the symphony of cyber threats. Within the hallowed halls of RAM Antivirus, I am the architect of defense, fashioning ingenious solutions to thwart the ever-evolving specters of the digital underworld.</h3>
 
-<img align="right" alt="coding" width"400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.michaelpage.co.in%2Fadvice%2Fcareer-advice%2Fcareer-progression%2Ffuture-technology-advice-technology-job-seekers-across-asia&psig=AOvVaw0v_NbimhERe7uiNojf0N6d&ust=1703891231365000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiIotqfs4MDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjghongade&label=Profile%20views&color=0e75b6&style=flat" alt="rjghongade" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjghongade" alt="rjghongade" /></a> </p>
 
 - 🔭 I’m currently working on [RAM ANTIVIRUS](https://ramantivirus.in/ram-total-security/)
 
