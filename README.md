@@ -39,3 +39,4 @@
 
 <img src="https://github.com/rjghongade/Real-estate-website-react/blob/main/HOME.png" alt="logo1" width="300" height="200">
 
+<img src="https://github.com/rjghongade/GIFS_USE/blob/main/new.png" alt="logo1" width="300" height="200">
