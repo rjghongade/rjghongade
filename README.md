@@ -37,10 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjghongade&" alt="rjghongade" /></p>
 
-<img src="https://github.com/rjghongade/Real-estate-website-react/blob/main/HOME.png" alt="logo1" width="300" height="200">
+| ![Image 1](https://github.com/rjghongade/Real-estate-website-react/blob/main/HOME.png) | ![Image 2](https://github.com/rjghongade/RAM_AntiVirus/blob/main/Main_Page.jpeg) |
+| --- | --- |
+| ![Image 3](https://github.com/rjghongade/GIFS_USE/blob/main/new.png) | ![Image 4](https://github.com/rjghongade/Folder-Locker/blob/main/Folder_Locker.png) |
 
-<img src="https://github.com/rjghongade/RAM_AntiVirus/blob/main/Main_Page.jpeg" alt="logo1" width="300" height="200" align="right">
-
-<img src="https://github.com/rjghongade/GIFS_USE/blob/main/new.png" alt="logo1" width="300" height="200">
-
-<img src="https://github.com/rjghongade/Folder-Locker/blob/main/Folder_Locker.png" alt="logo1" width="300" height="200" align="right">
