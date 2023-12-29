@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjghongade&show_icons=true&locale=en" alt="rjghongade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjghongade&" alt="rjghongade" /></p>
+
+<img src="https://github.com/rjghongade/Real-estate-website-react/blob/main/HOME.png" alt="logo1" width="300" height="200">
+
